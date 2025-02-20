@@ -19,6 +19,19 @@ body{
     align-items: center;
 
 }
+
+.message-container{
+    height: 65px;
+}
+
+.hide{
+    display: none;
+}
+.msg{
+    text-align: center;
+    font-size: 43px;
+
+}
 .game{
     width: 60vh;
     display: flex;
