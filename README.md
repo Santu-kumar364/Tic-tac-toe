@@ -1,4 +1,4 @@
-### **Tic-Tac-Toe Game 🎮**  
+### **Tic-Tac-Toe Game **  
 
 I have developed a **Tic-Tac-Toe** game using **HTML, CSS, and JavaScript** with the following features:  
 
